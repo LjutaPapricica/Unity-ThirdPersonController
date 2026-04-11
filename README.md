@@ -1,4 +1,4 @@
-# NaughtyCharacter
+# Unity-CharacterController
 
 Third Person Controller for Unity. </br>
 
