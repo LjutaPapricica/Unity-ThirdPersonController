@@ -2,10 +2,10 @@
 
 Third Person Controller for Unity. </br>
 
-![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/naughty_character_camera_rotation.gif)
-![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/naughty_character_jump_inplace.gif)
-![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/naughty_character_jump_moving.gif)
-![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/naughty_character_jump_moving2.gif)
+![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/character_controller_camera_rotation.gif)
+![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/character_controller_jump_inplace.gif)
+![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/character_controller_jump_moving_0.gif)
+![gif](https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/character-controller/character_controller_jump_moving_1.gif)
 
 ## System Requirements
 
